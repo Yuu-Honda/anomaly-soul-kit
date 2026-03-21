@@ -2,6 +2,7 @@
 
 **LLM-Driven Anomaly Evolution Simulator**
 
+
 > A kit for observing the emergence, persistence, and evolutionary inheritance of anomalies generated from LLM text.
 > LLMの生成テキストから生まれるアノマリーの発生・維持・継続進化を観測するためのキット。
 
